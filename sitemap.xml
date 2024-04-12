@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://barber.com/index.html</loc>
+    <lastmod>2024-04-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://barber.com/images/untitled.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://barber.com/images/facebook-logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://barber.com/images/instagram.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://barber.com/images/facebook-logo2-crop-u6851.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://barber.com/images/instagram2-crop-u6871.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://barber.com/images/menu2-crop-u3125.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://barber.com/images/menu2-crop-u4812.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://barber.com/images/instagram2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://barber.com/images/facebook-logo2.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://barber.com/assets/barber.mp4</loc>
+    <lastmod>2024-04-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
